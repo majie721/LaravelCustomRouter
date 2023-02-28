@@ -1,0 +1,19 @@
+{
+    "name": "majie/laravel-custom-router",
+    "require-dev": {
+        "phpunit/phpunit": "10.1.x-dev",
+        "symfony/var-dumper": "6.3.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Majie\\LaravelCustomRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "majie"
+        }
+    ],
+    "minimum-stability": "1.0.0",
+    "require": {}
+}
