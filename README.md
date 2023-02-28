@@ -1,5 +1,5 @@
 # LaravelCustomRouter
-eg:web.php
+eg:routes\web.php 
 ```
 Route::middleware([])->group(function (){
     Route::any('{controller}/{action}',function ($controller,$action){
